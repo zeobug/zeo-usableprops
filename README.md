@@ -1,0 +1,1 @@
+A system that lets players hold physical objects (props) in their hands when using an item. It attaches models like a rose, bouquet, sign, or flashlight to the player. Ideal for RP servers to create immersive interactions where players can walk, act, and enhance their roleplay.
